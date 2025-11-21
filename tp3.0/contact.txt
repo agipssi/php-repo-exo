@@ -1,5 +1,0 @@
-$contact = array (
-  0 => 'Alice Dupont',
-  1 => 'John Doe',
-  2 => 'Jean Martin',
-);
